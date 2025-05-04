@@ -8,18 +8,17 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid=lr013 %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection of photographs is to share the beauty of nature and inspire others to take their own pictures. These photographs were taken by myself during a trip to Grand Junction, Colorado on a few of my hikes. The following three locations are where all of the images were taken:
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+- Central City Masonic Cemetery in Central City, Colorado 
+- Palisade Rim Trail in Mesa County, Colorado
+- Monument Canyon Trail in Mesa County, Colorado 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
