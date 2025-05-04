@@ -4,9 +4,9 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-location,Location
+camera type,Camera Type
 latitude,Latitude
-longitude,Longitude
+filesize,File Size
 source,Source
 identifier,Source Identifier,,
 type,Type,
