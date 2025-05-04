@@ -5,7 +5,7 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 camera type,Camera Type
-latitude,Latitude
+location,Location
 filesize,File Size
 source,Source
 identifier,Source Identifier,,
